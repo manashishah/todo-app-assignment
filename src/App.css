@@ -1,0 +1,12 @@
+.container{
+  padding: 5rem;
+}
+
+h1{
+  color: #007bff;
+}
+
+select
+{
+  padding: 5px;
+}
